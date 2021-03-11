@@ -354,6 +354,13 @@ body {
   flex-direction: row;
   margin-top: 20px;
 }
+.services .service-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
 
 .title p {
   font-size: 1em;
